@@ -2,7 +2,7 @@
 
 # Ringkasan
 
-Dalam industri retail, pemberian diskon sering digunakan untuk meningkatkan penjualan. Namun, strategi ini juga dapat memengaruhi profitabilitas apabila tidak dikelola dengan tepat. Proyek ini menggunakan data [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) untuk mengidentifikasi bulan dengan profit margin terendah serta menganalisis peran diskon terhadap profit margin pada bulan tersebut. Melalui serangkaian proses persiapan dan analisis data, diperoleh beberapa insight yang dapat dijadikan bahan evaluasi bagi perusahaan.
+Dalam industri retail, pemberian diskon sering digunakan untuk meningkatkan penjualan. Namun, strategi ini juga dapat memengaruhi profitabilitas apabila tidak dikelola dengan baik. Proyek ini menggunakan data [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) untuk mengidentifikasi bulan dengan profit margin terendah serta menganalisis peran diskon terhadap profit margin pada bulan tersebut. Melalui serangkaian proses persiapan dan analisis data, diperoleh beberapa insight yang dapat dijadikan bahan evaluasi bagi perusahaan.
 
 # Tujuan
 
