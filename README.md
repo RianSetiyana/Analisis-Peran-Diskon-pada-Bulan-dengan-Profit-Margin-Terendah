@@ -14,7 +14,7 @@ Dalam industri retail, pemberian diskon sering digunakan untuk meningkatkan penj
 1. Bulan apa yang memiliki profit margin terendah?
 2. Apakah terdapat kategori dengan profit negatif pada bulan tersebut?
 3. Apakah peningkatan diskon diikuti dengan peningkatan volume penjualan pada kategori tersebut?
-4. Pada tingkat diskon berapa profit mulai menurun pada kategori tersebut?
+4. Pada tingkat diskon berapa profit mulai mengalami kerugian pada kategori tersebut?
 
 # Ruang Lingkup
 
