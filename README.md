@@ -299,7 +299,7 @@ Berikut beberapa temuan utama yang diperoleh dari hasil analisis:
 
 - **Diskon di atas 20% tidak meningkatkan volume penjualan**: Pada bulan April 2017, peningkatan diskon pada kategori Teknologi tidak diikuti oleh peningkatan volume penjualan, sehingga diskon yang lebih tinggi tidak memberikan dampak signifikan terhadap jumlah produk yang terjual.
 
-- **Diskon di atas 20% menurunkan profit**: Pada bulan April 2017, diskon yang lebih tinggi pada kategori Teknologi justru menghasilkan profit negatif dan berdampak buruk terhadap profitabilitas.
+- **Diskon di atas 20% mengalami kerugian**: Pada bulan April 2017, diskon yang lebih tinggi pada kategori Teknologi justru menghasilkan profit negatif dan berdampak buruk terhadap profitabilitas.
 
 # Dashboard Overview
 
@@ -315,4 +315,4 @@ File dashboard dapat dilihat disini: [My_Dashboard](Power_BI/My_Dashboard.pbix)
 
 Pemberian diskon yang terlalu tinggi pada kategori Teknologi di bulan April 2017 berkontribusi terhadap rendahnya profit margin pada bulan tersebut. Analisis menunjukkan bahwa diskon di atas 20% tidak diikuti oleh peningkatan volume penjualan dan justru menghasilkan kerugian.
 
-Temuan ini menunjukkan bahwa diskon yang terlalu besar dapat berdampak negatif terhadap profitabilitas. Oleh karena itu, diperlukan analisis lebih lanjut untuk menentukan batas optimal (threshold) diskon pada setiap kategori agar dapat memaksimalkan profit.
+Temuan ini menunjukkan bahwa diskon yang terlalu besar dapat berdampak negatif terhadap profitabilitas. Oleh karena itu, diperlukan analisis lebih lanjut untuk menentukan batas optimal (threshold) diskon pada setiap kategori agar dapat memaksimalkan profitabilitas.
